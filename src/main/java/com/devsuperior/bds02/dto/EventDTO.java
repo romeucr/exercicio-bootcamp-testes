@@ -53,7 +53,7 @@ public class EventDTO implements Serializable {
 		return date;
 	}
 
-	public void setDate(LocalDate date) {
+	public void setDate() {
 		this.date = date;
 	}
 
